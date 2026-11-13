@@ -1,17 +1,27 @@
-## <a id="aboutme"></a>🪄 〢 About Me
+# 👋 About Me
 
-- 👋 Hi everyone, I’m @fBNTFeujjj
-- 👀 I know : JavaScript
+🇫🇷 French developer based in France.
 
-## <a id="socials"></a>🌐 〢 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/876126492604641370)
+- 👨‍💻 Interested in software development and technology.
+- ⚡ Programming mainly in JavaScript.
+- 🚀 Always learning and working on new projects.
 
-## <a id="techstack"></a>💻 〢 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🌐 Socials
 
-## <a id="githubstats"></a>📊 〢 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=fBNTFeujjj&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fBNTFeujjj&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fBNTFeujjj&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/876126492604641370)
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=fBNTFeujjj&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=fBNTFeujjj&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fBNTFeujjj&theme=github_dark&hide_border=true&layout=compact)
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=fBNTFeujjj&icon=2&color=12)](https://visitcount.itsvg.in)
