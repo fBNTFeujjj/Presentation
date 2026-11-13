@@ -1,11 +1,7 @@
 ## <a id="aboutme"></a>🪄 〢 About Me
 
 - 👋 Hi everyone, I’m @fBNTFeujjj
-- 👀 I know : PHP | JavaScript
-- 🌱 I’m currently learning Json UI
-- 🏠 Based on PMMP 5
-- 🚧 My project : Donny [![Discord](https://img.shields.io/discord/1294994570786115594?label=Discord&logo=discord&color=blue)](https://discord.gg/donny)
-
+- 👀 I know : JavaScript
 
 ## <a id="socials"></a>🌐 〢 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/donny) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bntfeujjj04)
